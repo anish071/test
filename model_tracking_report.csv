@@ -1,0 +1,2 @@
+Run_ID,Model,Code_Version,Source,MSE,R2_Score,Training_Rows,Test_Rows
+38e7e409808c4f1b9d6a3630801746e8,Linear Regression,v1.0,Jupyter Notebook - Telecom Customer Analysis,2.676840008212163e-30,1.0,71760,17940
